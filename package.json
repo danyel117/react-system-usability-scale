@@ -1,6 +1,6 @@
 {
   "name": "react-system-usability-scale",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "private": false,
   "description": "React component for displaying the System Usability Scale",
   "license": "MIT",

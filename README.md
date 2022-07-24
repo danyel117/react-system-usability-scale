@@ -126,7 +126,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - dsaldarriaga@prevalentware.com
+Daniel Saldarriaga - dsaldarriaga@prevalentware.com
 
 Project Link: [https://github.com/danyel117/react-system-usability-scale](https://github.com/danyel117/react-system-usability-scale)
 
