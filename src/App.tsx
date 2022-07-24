@@ -1,11 +1,11 @@
 import { useState } from 'react';
-import SUS from './components/SUS';
+import SUS from '../dist/SUS';
 
 function App() {
   const [sus, setSus] = useState('0');
   return (
     <div className='App'>
-      <SUS result={parseInt(sus, 10)} />
+      <SUS result={parseInt(sus, 0)} />
       <input
         type='number'
         max={100}
