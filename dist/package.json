@@ -1,7 +1,7 @@
 {
   "name": "react-sus",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "description": "React component for displaying the System Usability Scale",
   "license": "MIT",
   "dependencies": {
