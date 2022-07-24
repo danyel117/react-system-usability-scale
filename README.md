@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/danyel117/react-sus">
+  <a href="https://github.com/danyel117/react-system-usability-scale">
     <img src="images/sus.png" alt="Logo" height="130">
   </a>
 
@@ -18,14 +18,14 @@
   <p align="center">
     React component for displaying the <a href="https://www.researchgate.net/publication/228593520_SUS_A_quick_and_dirty_usability_scale">System Usability Scale</a>
     <!-- <br />
-    <a href="https://github.com/danyel117/react-sus"><strong>Explore the docs »</strong></a> -->
+    <a href="https://github.com/danyel117/react-system-usability-scale"><strong>Explore the docs »</strong></a> -->
     <br />
     <!-- <br />
-    <a href="https://github.com/danyel117/react-sus">View Demo</a> -->
+    <a href="https://github.com/danyel117/react-system-usability-scale">View Demo</a> -->
     ·
-    <a href="https://github.com/danyel117/react-sus/issues">Report Bug</a>
+    <a href="https://github.com/danyel117/react-system-usability-scale/issues">Report Bug</a>
     ·
-    <a href="https://github.com/danyel117/react-sus/issues">Request Feature</a>
+    <a href="https://github.com/danyel117/react-system-usability-scale/issues">Request Feature</a>
   </p>
 </div>
 
@@ -71,9 +71,9 @@
 
 ### Installation
 
-`npm install react-sus`
+`npm install react-system-usability-scale`
 
-`yarn add react-sus`
+`yarn add react-system-usability-scale`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -82,7 +82,7 @@
 ## Usage
 
 ```JSX
-import SUS from 'react-sus';
+import SUS from 'react-system-usability-scale';
 
 function App() {
   return (
@@ -93,7 +93,7 @@ function App() {
 }
 ```
 
-See the [open issues](https://github.com/danyel117/react-sus/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/danyel117/react-system-usability-scale/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -128,23 +128,23 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - dsaldarriaga@prevalentware.com
 
-Project Link: [https://github.com/danyel117/react-sus](https://github.com/danyel117/react-sus)
+Project Link: [https://github.com/danyel117/react-system-usability-scale](https://github.com/danyel117/react-system-usability-scale)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/danyel117/react-sus.svg?style=for-the-badge
-[contributors-url]: https://github.com/danyel117/react-sus/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/danyel117/react-sus.svg?style=for-the-badge
-[forks-url]: https://github.com/danyel117/react-sus/network/members
-[stars-shield]: https://img.shields.io/github/stars/danyel117/react-sus.svg?style=for-the-badge
-[stars-url]: https://github.com/danyel117/react-sus/stargazers
-[issues-shield]: https://img.shields.io/github/issues/danyel117/react-sus.svg?style=for-the-badge
-[issues-url]: https://github.com/danyel117/react-sus/issues
+[contributors-shield]: https://img.shields.io/github/contributors/danyel117/react-system-usability-scale.svg?style=for-the-badge
+[contributors-url]: https://github.com/danyel117/react-system-usability-scale/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/danyel117/react-system-usability-scale.svg?style=for-the-badge
+[forks-url]: https://github.com/danyel117/react-system-usability-scale/network/members
+[stars-shield]: https://img.shields.io/github/stars/danyel117/react-system-usability-scale.svg?style=for-the-badge
+[stars-url]: https://github.com/danyel117/react-system-usability-scale/stargazers
+[issues-shield]: https://img.shields.io/github/issues/danyel117/react-system-usability-scale.svg?style=for-the-badge
+[issues-url]: https://github.com/danyel117/react-system-usability-scale/issues
 [license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
-[license-url]: https://github.com/danyel117/react-sus/blob/main/LICENSE
+[license-url]: https://github.com/danyel117/react-system-usability-scale/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/sus.png
