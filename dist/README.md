@@ -59,7 +59,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screenshot][product-screenshot]](https://github.com/danyel117/react-system-usability-scale)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
