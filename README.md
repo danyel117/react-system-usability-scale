@@ -143,7 +143,7 @@ Project Link: [https://github.com/danyel117/react-sus](https://github.com/danyel
 [stars-url]: https://github.com/danyel117/react-sus/stargazers
 [issues-shield]: https://img.shields.io/github/issues/danyel117/react-sus.svg?style=for-the-badge
 [issues-url]: https://github.com/danyel117/react-sus/issues
-[license-shield]: https://img.shields.io/github/license/danyel117/react-sus.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
 [license-url]: https://github.com/danyel117/react-sus/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
