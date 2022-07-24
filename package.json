@@ -1,7 +1,9 @@
 {
   "name": "react-sus",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
+  "description": "React component for displaying the System Usability Scale",
+  "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -46,5 +48,6 @@
     "autoprefixer": "^10.4.7",
     "postcss": "^8.4.14",
     "tailwindcss": "^3.1.6"
-  }
+  },
+  "author": "Daniel Saldarriaga <dsaldarriaga@prevalentware.com>"
 }
