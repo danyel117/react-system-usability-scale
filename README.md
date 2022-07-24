@@ -10,13 +10,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/danyel117/react-sus">
-    <img src="images/sus.png" alt="Logo" height="120">
+    <img src="images/sus.png" alt="Logo" height="130">
   </a>
 
 <h3 align="center">React SUS</h3>
 
   <p align="center">
-    React component for displaying the System Usability Scale
+    React component for displaying the <a href="https://www.researchgate.net/publication/228593520_SUS_A_quick_and_dirty_usability_scale">System Usability Scale</a>
     <!-- <br />
     <a href="https://github.com/danyel117/react-sus"><strong>Explore the docs »</strong></a> -->
     <br />
