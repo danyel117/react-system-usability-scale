@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/danyel117/react-system-usability-scale">
-    <img src="images/sus.png" alt="Logo" height="130">
+    <img src="https://github.com/danyel117/react-system-usability-scale/blob/main/images/sus.png?raw=true" alt="Logo" height="130">
   </a>
 
 <h3 align="center">React SUS</h3>
@@ -59,7 +59,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screenshot][product-screenshot]](https://github.com/danyel117/react-system-usability-scale)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -147,6 +147,6 @@ Project Link: [https://github.com/danyel117/react-system-usability-scale](https:
 [license-url]: https://github.com/danyel117/react-system-usability-scale/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/sus.png
+[product-screenshot]: https://github.com/danyel117/react-system-usability-scale/blob/main/images/sus.png?raw=true
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
