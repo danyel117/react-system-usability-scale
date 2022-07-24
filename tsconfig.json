@@ -12,11 +12,10 @@
     "jsx": "react-jsx",
     "declaration": true,
     "esModuleInterop": true,
-    "outDir": "src/dist",
+    "outDir": "dist",
     "target": "ESNext",
     "module": "ESNext",
     "moduleResolution": "node"
   },
-  "include": ["src", "dist/SUS.js"],
-  "exclude": ["./src/index.tsx", "./src/App.tsx", "./src/setupTests.ts"]
+  "include": ["src", "serve.js"]
 }

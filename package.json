@@ -1,53 +1,38 @@
 {
   "name": "react-system-usability-scale",
-  "version": "0.1.5",
+  "version": "0.1.23",
   "private": false,
   "description": "React component for displaying the System Usability Scale",
   "license": "MIT",
+  "author": "Daniel Saldarriaga <dsaldarriaga@prevalentware.com>",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/src/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "npm run clean && node build.js && npm run build:css && tsc --emitDeclarationOnly --outDir dist",
+    "build:css": "npx tailwindcss -i ./src/styles/styles.css -o ./dist/styles/styles.css --minify",
+    "clean": "rimraf dist",
+    "dev": "node serve.js",
+    "prepublishOnly": "npm run build"
+  },
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.4",
-    "@testing-library/react": "^13.3.0",
-    "@testing-library/user-event": "^13.5.0",
-    "@types/jest": "^27.5.2",
-    "@types/node": "^16.11.45",
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "typescript": "^4.7.4",
-    "web-vitals": "^2.1.4"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "build-local": "react-scripts build",
-    "clean": "rimraf dist && mkdir dist",
-    "build": "yarn clean && tsc && cp package.json README.md ./dist && cp ./src/main.css ./dist/styles.css"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.7",
+    "chokidar": "^3.5.3",
+    "esbuild": "^0.14.49",
+    "esbuild-style-plugin": "^1.6.0",
+    "live-server": "^1.2.2",
     "postcss": "^8.4.14",
-    "tailwindcss": "^3.1.6"
-  },
-  "author": "Daniel Saldarriaga <dsaldarriaga@prevalentware.com>"
+    "rimraf": "^3.0.2",
+    "tailwindcss": "^3.1.6",
+    "typescript": "^4.7.4"
+  }
 }

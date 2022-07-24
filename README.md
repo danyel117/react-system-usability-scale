@@ -83,6 +83,7 @@
 
 ```JSX
 import SUS from 'react-system-usability-scale';
+import 'react-system-usability-scale/dist/styles/styles.css';
 
 function App() {
   return (
