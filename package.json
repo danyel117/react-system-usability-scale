@@ -1,6 +1,6 @@
 {
   "name": "react-system-usability-scale",
-  "version": "0.1.23",
+  "version": "0.1.24",
   "private": false,
   "description": "React component for displaying the System Usability Scale",
   "license": "MIT",
@@ -8,6 +8,7 @@
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/src/index.d.ts",
+  "repository": "https://github.com/danyel117/react-system-usability-scale",
   "files": [
     "dist"
   ],
