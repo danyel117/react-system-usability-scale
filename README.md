@@ -14,6 +14,7 @@
   </a>
 
 <h3 align="center">React SUS</h3>
+<h5>Credit of the design: <a href='https://10up.com/uploads/2018/11/sus-score-1-768x427.jpg'>10Up</a></h5>
 
   <p align="center">
     React component for displaying the <a href="https://www.researchgate.net/publication/228593520_SUS_A_quick_and_dirty_usability_scale">System Usability Scale</a>
